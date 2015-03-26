@@ -15,3 +15,5 @@ boxplot(y)
 boxplot(list(x,Y))
 
 # Task 4
+# histogram for X
+hist(x)
