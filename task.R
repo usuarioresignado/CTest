@@ -11,5 +11,7 @@ y = rnorm(1000,mean=1)
 boxplot(y)
 
 # Task 3
+# boxplot for x's and y's
+boxplot(list(x,Y))
 
 # Task 4
