@@ -12,7 +12,10 @@ boxplot(y)
 
 # Task 3
 # boxplot for x's and y's
-boxplot(list(x,Y))
+boxplot(list(x,y))
+# separate boxplots
+boxplot(x)
+boxplot(y)
 
 # Task 4
 # histogram for X
